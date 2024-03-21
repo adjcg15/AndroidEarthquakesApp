@@ -1,6 +1,4 @@
-package com.example.earthquakeapp.responses;
-
-import com.example.earthquakeapp.pojos.Feature;
+package com.example.earthquakeapp.api;
 
 import java.util.List;
 

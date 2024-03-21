@@ -1,4 +1,4 @@
-package com.example.earthquakeapp.pojos;
+package com.example.earthquakeapp.api;
 
 public class Feature {
     private String id;

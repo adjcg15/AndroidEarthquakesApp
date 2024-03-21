@@ -1,4 +1,4 @@
-package com.example.earthquakeapp.pojos;
+package com.example.earthquakeapp.api;
 
 public class Geometry {
     private double[] coordinates;

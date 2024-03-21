@@ -1,13 +1,8 @@
-package com.example.earthquakeapp;
-
-import com.example.earthquakeapp.responses.EarthquakeJsonResponse;
-
-import java.util.List;
+package com.example.earthquakeapp.api;
 
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;
-import retrofit2.converter.scalars.ScalarsConverterFactory;
 import retrofit2.http.GET;
 
 public class ApiClient {
